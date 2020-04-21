@@ -19,7 +19,7 @@ asdasdasd
 <h1>Advanced</1>
 <ul>
 <li>git revert Видаляє останій commit зі всіми данними</li>
-<li>git reset</li>
+<li>git reset --hard log видяляє commit з логів</li>
 <li>git rebase</li>
 <li>git cherry-pick</li>
 <li>git stash</li>
