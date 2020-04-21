@@ -6,7 +6,7 @@
 <li>git status - команда яка говорить про данні в каталозі</li>
 <li>git add - додає файли в каталог(додати всі файли add.) </li>
 <li>git commit - ім'я версії даних (commit -m"назва нового коміту"</li>
-<li>git log - стан тепершіх файлів  </li>
+<li>git log - логи наших commit </li>
 <li>git diff - які зміни пройшли в файлах</li>
 <li>git branch Гілки в яких пишуть код</li>
 <li>git checkout - дає можливісь дивитись старі версії</li>
@@ -19,7 +19,7 @@
 <ul>
 <li>git revert Видаляє останій commit зі всіми данними, але залишає в логах</li>
 <li>git reset --hard log видяляє commit з логів</li>
-<li>git rebase Обеднання 2 бренчей</li>
-<li>git cherry-pick</li>
-<li>git stash</li>
+<li>git rebase Обеднання 2 бренчей і робота з ними в автоматичному режимі і злиття комітів</li>
+<li>git cherry-pick те саме rebase тільки в ручну</li>
+<li>git stash ховає поки нам не потрібні файли підчас роботи в github</li>
 </ul>
