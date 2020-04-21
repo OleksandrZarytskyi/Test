@@ -17,7 +17,7 @@
 </ul>
 <h1>Advanced</1>
 <ul>
-<li>git revert</li>
+<li>git revert Видаляє останій commit зі всіми данними</li>
 <li>git reset</li>
 <li>git rebase</li>
 <li>git cherry-pick</li>
