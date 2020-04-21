@@ -15,7 +15,6 @@
 <li>git merge Це обеднання двух версій коду в один branch</li>
 <li>git clone витягнути фали з github</li>
 </ul>
-asdasdasd
 <h1>Advanced</1>
 <ul>
 <li>git revert Видаляє останій commit зі всіми данними, але залишає в логах</li>
