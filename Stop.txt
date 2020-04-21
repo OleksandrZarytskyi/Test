@@ -8,7 +8,7 @@
 <li>git commit - ім'я версії даних (commit -m"назва нового коміту"</li>
 <li>git log - стан тепершіх файлів  </li>
 <li>git diff - які зміни пройшли в файлах</li>
-<li>git checkout - </li>
+<li>git checkout - дає можливісь дивитись старі версії</li>
 <li>git branch</li>
 <li>git push</li>
 <li>git pull</li>
