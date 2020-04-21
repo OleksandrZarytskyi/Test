@@ -8,8 +8,8 @@
 <li>git commit - ім'я версії даних (commit -m"назва нового коміту"</li>
 <li>git log - стан тепершіх файлів  </li>
 <li>git diff - які зміни пройшли в файлах</li>
-<li>git checkout - дає можливісь дивитись старі версії</li>
 <li>git branch Гілки в яких пишуть код</li>
+<li>git checkout - дає можливісь дивитись старі версії</li>
 <li>git push відправити нову версію</li>
 <li>git pull стягнути нову версію</li>
 <li>git merge Це обеднання двух версій коду в один branch</li>
@@ -19,8 +19,7 @@
 <ul>
 <li>git revert Видаляє останій commit зі всіми данними, але залишає в логах</li>
 <li>git reset --hard log видяляє commit з логів</li>
-<li>git rebase</li>
+<li>git rebase Обеднання 2 бренчей</li>
 <li>git cherry-pick</li>
 <li>git stash</li>
 </ul>
-Текс для тесту
