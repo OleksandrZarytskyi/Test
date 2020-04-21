@@ -1,2 +1,25 @@
-<h1>Global</h1>
-wrwer
+<h1>Base</h1>
+<ul>
+<li>git config --global user.name blabla ім'я того хто робить цей створив новий commit</li>
+<li>git config --global user.email blabal@bla імейл толо хто сворює новий commit</li>
+<li>git init - команда для створення архіву з версіями данних</li>
+<li>git status - команда яка говорить про данні в каталозі</li>
+<li>git add - додає файли в каталог(додати всі файли add.) </li>
+<li>git commit - ім'я версії даних (commit -m"назва нового коміту"</li>
+<li>git log - стан тепершіх файлів  </li>
+<li>git diff - які зміни пройшли в файлах</li>
+<li>git checkout -</li>
+<li>git branch</li>
+<li>git push</li>
+<li>git pull</li>
+<li>git merge</li>
+<li>git clone</li>
+</ul>
+<h1>Advanced</1>
+<ul>
+<li>git revert</li>
+<li>git reset</li>
+<li>git rebase</li>
+<li>git cherry-pick</li>
+<li>git stash</li>
+</ul>
