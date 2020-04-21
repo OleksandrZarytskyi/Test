@@ -16,6 +16,7 @@
 <li>git clone витягнути фали з github</li>
 </ul>
 <h1>Advanced</1>
+Всякої фігні по написував
 <ul>
 <li>git revert</li>
 <li>git reset</li>
