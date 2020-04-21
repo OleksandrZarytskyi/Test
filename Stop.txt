@@ -22,4 +22,5 @@ asdasdasd
 <li>git reset --hard log видяляє commit з логів</li>
 <li>git rebase</li>
 <li>git cherry-pick</li>
+<li>git stash</li>
 </ul>
