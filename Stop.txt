@@ -10,8 +10,8 @@
 <li>git diff - які зміни пройшли в файлах</li>
 <li>git checkout - дає можливісь дивитись старі версії</li>
 <li>git branch</li>
-<li>git push</li>
-<li>git pull</li>
+<li>git push відправити нову версію</li>
+<li>git pull стягнути нову версію</li>
 <li>git merge</li>
 <li>git clone</li>
 </ul>
